@@ -23,4 +23,3 @@ class QuotesTest < ApplicationSystemTestCase
     assert_text "Capybara quote"
   end
 end
-
