@@ -21,6 +21,8 @@ gem "jbuilder"
 
 gem "simple_form", "~> 5.3.1"
 
+gem 'devise', '~> 4.9', '>= 4.9.4'
+
 gem "redis"
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
